@@ -6,6 +6,8 @@
 
 ⚠ 不开源是为防止滥用, 只是简单加密没有恶意代码.  
 
+另有 GUI 版本在[这里](https://github.com/funte/xmlymft-fyne-gui).  
+
 ## 如何使用
 * 打开终端, 切换到 `xmlymft_win64.exe` 所在目录  
 * 搜索专辑  
