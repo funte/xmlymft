@@ -1,0 +1,15 @@
+.vscode
+.npmrc
+node_modules
+package-lock.json
+package.json
+build.bat
+
+reversed
+**/*.go
+!common/*.go
+go.mod
+go.sum
+config.json
+bins/config.json
+001.*
