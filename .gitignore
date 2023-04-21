@@ -1,11 +1,8 @@
 .vscode
-.npmrc
-node_modules
-package-lock.json
-package.json
-build.bat
+build.cmd
 
 reversed
+reversed2
 **/*.go
 !common/*.go
 go.mod

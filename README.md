@@ -1,8 +1,8 @@
 # 喜马拉雅免费听
 写这个项目只是为了学习 `golang`
-<image src="./readmes/gopher-pilot-bust.svg" height=48>
-<image src="./readmes/gopher-dancer.png" height=48>
-<image src="./readmes/gopher-gin.png" height=48>  
+<image src="./.readmes/gopher-pilot-bust.svg" height=48>
+<image src="./.readmes/gopher-dancer.png" height=48>
+<image src="./.readmes/gopher-gin.png" height=48>  
 
 ⚠ 不开源是为防止滥用, 只是简单加密没有恶意代码.  
 
